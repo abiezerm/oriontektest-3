@@ -1,0 +1,49 @@
+{
+    "clients": [
+        {
+            "name": "Edgard Allan Poe",
+            "addresses": [
+                {
+                    "name": "Principal",
+                    "address": "Boston, Massachusetts",
+                    "active": true
+                },
+                {
+                    "name": "Work",
+                    "address": "Baltimore, Meryland",
+                    "active": true
+                }
+            ]
+        },
+        {
+            "name": "Carol Lewis",
+            "addresses": [
+                {
+                    "name": "Principal",
+                    "address": "Birmingham (Estados Unidos)",
+                    "active": true
+                }
+            ]
+        },
+        {
+            "name": "Malba TahanMalba Tahan",
+            "addresses": [
+                {
+                    "name": "Principal",
+                    "address": "State of São Paulo, Brasil",
+                    "active": true
+                },
+                {
+                    "name": "Work",
+                    "address": "Rio de Janeiro",
+                    "active": false
+                },
+                {
+                    "name": "Family",
+                    "address": "Portugal",
+                    "active": true
+                }
+            ]
+        }
+    ]
+}

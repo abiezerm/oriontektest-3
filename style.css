@@ -1,0 +1,14 @@
+
+
+.item {
+    cursor: pointer;
+}
+
+.item:hover {
+    background-color: #d1dcff !important;
+}
+
+.item.active {
+    background-color: var(--bs-primary) !important;
+    color: var(--bs-light) !important;
+}
